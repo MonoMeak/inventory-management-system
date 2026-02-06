@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# API (Java / Gradle)
+API/.gradle/
+API/.idea/
+API/.vscode/
+API/build/
+
+# Web (Nuxt / Node)
+Web/node_modules/
+Web/.nuxt/
+Web/dist/
